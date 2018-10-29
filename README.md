@@ -1,1 +1,1 @@
-# stbi2
+# stbi
